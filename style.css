@@ -1,0 +1,14 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+body {
+    background-image: url(./mese.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.rotate{
+    transform: rotateX(360deg);
+}
+
